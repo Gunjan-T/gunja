@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332006654897",
+    "firebase_url": "https://gunjan-611ab-default-rtdb.firebaseio.com",
+    "project_id": "gunjan-611ab",
+    "storage_bucket": "gunjan-611ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332006654897:android:abff71cf7d5f0c49e6b390",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332006654897-a8j03tihspd6d2k4o4e5o1sfctq8v11a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeproject",
+            "certificate_hash": "f49398463c0f7d9afe151e12b96506e650059623"
+          }
+        },
+        {
+          "client_id": "332006654897-3r3jgrlos42nl0l4014gocvll3a1b0j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxXY0jEDk-3a1mTjTXutoWy6iFEWNO7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332006654897-3r3jgrlos42nl0l4014gocvll3a1b0j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
